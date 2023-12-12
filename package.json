@@ -1,0 +1,17 @@
+{
+  "name": "invitelogger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sown",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^9.2.2",
+    "devland.js": "^1.4.5",
+    "devland.js-invites": "^1.0.3",
+    "quick.db": "^9.1.7"
+  }
+}
